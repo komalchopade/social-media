@@ -28,10 +28,6 @@ This project implements a simple API for managing Instagram-like posts.
   { "id": 1, "like": 1000, "PName": "John Doe" },
   { "id": 2, "like": 2500, "PName": "Jane Smith" }
 ]
-## Technologies Used
-Node.js
-Express.js
-Body-parser
 
 
 
